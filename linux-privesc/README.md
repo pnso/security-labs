@@ -1,6 +1,6 @@
 # Linux Privilege Escalation Scanner
 
-This script automates basic Linux privilege escalation checks. Useful in CTFs, lab environments, or when you gain limited shell access and need a quick overview of potential privesc paths.
+This script automates basic Linux privilege escalation checks. Useful in CTFs, lab environments, or when you gain limited shell access and need a quick overview of potential priv-esc paths.
 
 
 ## Features
