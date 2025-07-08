@@ -20,9 +20,11 @@ This script automates basic Linux privilege escalation checks. Useful in CTFs, l
 
 ## How To Use: 
 
+```bash
 chmod +x linux_privesc_scan.sh
 ./linux_privesc_scan.sh > scan_output.txt
 
+```
 
 ## Notes
 This script is meant to be run from a low-privilege shell (post initial access) to help find a path to root.
